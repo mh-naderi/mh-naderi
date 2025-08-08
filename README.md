@@ -116,3 +116,22 @@
 <!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div> -->
+
+
+<!-- Default Statcounter code for My GitHub Profile
+https://github.com/mhnaderi99 -->
+<script type="text/javascript">
+var sc_project=13157453; 
+var sc_invisible=1; 
+var sc_security="49ca8258"; 
+</script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js"
+async></script>
+<noscript><div class="statcounter"><a title="Web Analytics"
+href="https://statcounter.com/" target="_blank"><img
+class="statcounter"
+src="https://c.statcounter.com/13157453/0/49ca8258/1/"
+alt="Web Analytics"
+referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
+<!-- End of Statcounter Code -->
