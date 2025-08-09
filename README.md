@@ -1,7 +1,7 @@
 # Hi there, I'm Mohammadhossein! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=CS+Master's+Graduate;Distributed+ML+Systems+Researcher;ML+Engineer;Software+Engineer;Data+Scientist;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=1200&lines=CS+Master's+Graduate;Distributed+ML+Systems+Researcher;ML+Engineer;Software+Engineer;Data+Scientist;Always+Learning+New+Technologies" alt="Typing SVG" />
 </div>
 
 ---
@@ -118,20 +118,17 @@
 </div> -->
 
 
-<!-- Default Statcounter code for My GitHub Profile
-https://github.com/mhnaderi99 -->
-<script type="text/javascript">
-var sc_project=13157453; 
-var sc_invisible=1; 
-var sc_security="49ca8258"; 
-</script>
-<script type="text/javascript"
-src="https://www.statcounter.com/counter/counter.js"
-async></script>
-<noscript><div class="statcounter"><a title="Web Analytics"
-href="https://statcounter.com/" target="_blank"><img
-class="statcounter"
-src="https://c.statcounter.com/13157453/0/49ca8258/1/"
-alt="Web Analytics"
-referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
-<!-- End of Statcounter Code -->
+<!--
+**mhnaderi99/mhnaderi99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
