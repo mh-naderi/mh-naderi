@@ -1,7 +1,7 @@
 # Hi there, I'm Mohammadhossein! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=1200&lines=CS+Master's+Graduate;Distributed+ML+Systems+Researcher;ML+Engineer;Software+Engineer;Data+Scientist;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=1200&lines=CS+Master's+Graduate;Distributed+ML+Systems+Researcher;ML+Engineer;Software+Engineer;Data+Scientist;Always+Learning+New+Technologies" alt="Typing SVG" />
 </div>
 
 ---
@@ -61,11 +61,11 @@
 
 <!-- Theme 1: OneDark (Current) -->
 <p align="center">
-  <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhnaderi99&layout=compact&theme=onedark&hide_border=false&langs_count=6&hide=jupyter%20notebook,html,css,scss,racket,vba&bg_color=00000000&custom_title=Most+Used+Languages" alt="Top Languages"/>
+  <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mh-naderi&layout=compact&theme=onedark&hide_border=false&langs_count=6&hide=jupyter%20notebook,html,css,scss,racket,vba&bg_color=00000000&custom_title=Most+Used+Languages" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img width="500em" src="https://github-profile-trophy.vercel.app/?username=mhnaderi99&theme=onedark&no-frame=false&no-bg=true&margin-w=15&title=Repositories,MultipleLang,Commits,Experience&column=4&row=1&background=00000000" alt="GitHub Achievements"/>
+  <img width="500em" src="https://github-profile-trophy.vercel.app/?username=mh-naderi&theme=onedark&no-frame=false&no-bg=true&margin-w=15&title=Repositories,MultipleLang,Commits,Experience&column=4&row=1&background=00000000" alt="GitHub Achievements"/>
 </p>
 
 <!-- ## 📈 Contribution Graph
